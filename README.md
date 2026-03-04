@@ -22,7 +22,10 @@ Silver Layer (Cleaned structured data)
      ↓
 Gold Layer (Analytics insights)
 
-----Architecture Diagram here----
+
+<img width="608" height="646" alt="image" src="https://github.com/user-attachments/assets/7dc23d74-172d-48a1-9cd9-a33a2f89c51e" />
+
+
 
 **Tech Stack**
 
