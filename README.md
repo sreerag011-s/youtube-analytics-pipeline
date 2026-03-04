@@ -26,14 +26,6 @@ Gold Layer (Analytics insights)
 
 **Tech Stack**
 
-Component	Technology
-Data Processing	Apache Spark
-Compute	Azure Databricks
-Storage	ADLS Gen2
-Format	Delta Lake
-Orchestration	Databricks Workflows
-Language	Python / PySpark
-Data Source	YouTube Data API
 <img width="386" height="195" alt="image" src="https://github.com/user-attachments/assets/4f13cd31-b065-4851-a69d-7e3d1b7b8434" />
 
 **Data Quality Checks**
